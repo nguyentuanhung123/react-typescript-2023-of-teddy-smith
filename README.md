@@ -48,3 +48,19 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 ## Link
 
 https://www.youtube.com/watch?v=uLMVsBHqFYY
+
+## React.MouseEvent<HTMLButtonElement, MouseEvent>
+
+Xem Video #6 để biết lấy kiểu gì
+
+SyntheticEvent : sự kiện tổng hợp
+
+# Axios
+
+npm i axios --save-dev @types/axios
+
+# Dotenv
+
+B1: npm i dotenv --save
+B2: Tạo file .env và chỉnh sửa (cùng cấp với thư mục src)
+B3: Tạo file api.tsx (trong thư mục src)

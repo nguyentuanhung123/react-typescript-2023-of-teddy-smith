@@ -5,7 +5,7 @@ interface IProps {
 
 }
 
-const CardList = (props: IProps) => {
+const CardList: React.FC<IProps> = (props): JSX.Element => {
     return (
         <div>
             <Card companyName='Apple' ticker='AAPL' price={100}/>
